@@ -1,0 +1,25 @@
+.info-box {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	height: fit-content;
+	width: fit-content;
+	margin: 0px;
+
+	padding: 6px;
+	background-color: black;
+	color: bisque;
+	border: 1px solid bisque;
+	margin: 1rem;
+	opacity: .2;
+
+	&:hover{
+		opacity: .6;
+	}
+
+}
+
+.settings-container {
+	border: 1px solid bisque;
+	padding: 3px;
+}

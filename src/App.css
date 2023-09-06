@@ -7,21 +7,8 @@
 	align-items: center;
 }
 
-.info-box {
-	width: fit-content;
-	height: fit-content;
-	position: fixed;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	margin: auto;
-	padding: 6px;
-	background-color: bisque;
-}
-
 .animation-frame {
-
-	background-color: hsl(276, 100%, 18%);
-	border: 2px black solid;
-	outline: 2px bisque solid;
+	background-color: hsl(276, 10%, 8%);
+	/* border: 2px black solid; */
+	/* outline: 2px bisque solid; */
 }
