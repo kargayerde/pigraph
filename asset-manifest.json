@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pigraph/static/css/main.dbebc734.css",
+    "main.js": "/pigraph/static/js/main.e6c6c248.js",
+    "index.html": "/pigraph/index.html",
+    "main.dbebc734.css.map": "/pigraph/static/css/main.dbebc734.css.map",
+    "main.e6c6c248.js.map": "/pigraph/static/js/main.e6c6c248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbebc734.css",
+    "static/js/main.e6c6c248.js"
+  ]
+}
